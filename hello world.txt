@@ -1,2 +1,7 @@
+
+print ("Hell world!!!";)
+print ("Hello world!!!";)
+print ("hello everybody";)
+print("Goodbye";)
 print ("Hell world!!!";)
 print ("Hello world!!!";)
